@@ -1,0 +1,10 @@
+{
+    "name": "nodejs-app",
+    "build": {
+        "context": "../",
+        "dockerfile": "Dockerfile"
+    },
+    "forwardPorts": [
+        9000
+    ]
+}
