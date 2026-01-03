@@ -1,0 +1,5 @@
+{
+  "name": "Smart Order Processor",
+  "description": "A sophisticated order management tool that processes Excel exports, calculates totals based on customizable prices, and categorizes orders by shipping methods and custom date groups.",
+  "requestFramePermissions": []
+}
